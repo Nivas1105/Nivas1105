@@ -21,7 +21,7 @@ I'm a Data Science grad student who gets a kick out of crafting clarity from the
   *   **Languages:** Python, SQL
   *   **Data Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
   *   **Cloud & DevOps:** AWS, Docker, Git
-  *   **Currently Exploring:** Apache Spark, GenAI and MLOps principles.
+  *   **Currently Exploring:** Apache Spark, GenAI.
 
 </details>
 
