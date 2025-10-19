@@ -6,7 +6,7 @@ I'm a Data Science grad student who gets a kick out of crafting clarity from the
   <summary><b>My Core Competencies 🚀</b></summary>
   
   <br />
-  
+  *   **☁️ Cloud & DevOps: Develop secure, scalable cloud solutions on AWS, integrating CI/CD pipelines and best DevOps practices to streamline deployment and monitoring.  
   *   **📊 Data Engineering:** I build solid, scalable ETL pipelines and manage data warehouses to ensure data is always ready for analysis.
   *   **📈 Analytics & Data Science:** I dive deep into statistical analysis, A/B testing, and predictive modeling to uncover insights that drive business decisions.
   *   **🧠 Machine Learning:** I have experience in the end-to-end ML lifecycle, from developing and training models to deploying them for real-world use.
@@ -29,6 +29,7 @@ I'm a Data Science grad student who gets a kick out of crafting clarity from the
 
 ### ✨ Project Spotlight
 
+*   **Cloud & DevOps**: A hands-on repository showcasing cloud-native architecture, infrastructure automation, and CI/CD workflows using AWS, Docker, Terraform, and GitHub Actions.[Link to Repo](https://github.com/Nivas1105/cloud_devops_project)
 *   **Data Science**: A comprehensive collection of projects demonstrating machine learning models, from data exploration and feature engineering to model building and evaluation. [Link to Repo](https://github.com/Nivas1105/Data_Science)
 *   **Data Engineering**: Hands-on implementation of robust data pipelines, showcasing skills in data warehousing, ETL processes, and workflow orchestration to deliver clean, reliable data. [Link to Repo](https://github.com/Nivas1105/Data_Engineering)
 *   **Data Analysis**: A portfolio of diverse data analyses that translate complex datasets into actionable insights using statistical methods and advanced visualization techniques. [Link to Repo](https://github.com/Nivas1105/Data_Analysis)
