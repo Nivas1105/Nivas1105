@@ -2,21 +2,17 @@
 
 I'm a Data Science grad student who gets a kick out of crafting clarity from the chaos of raw data. My goal is to build intelligent systems that solve real-world problems.
 
-<details>
-  <summary><b>My Core Competencies 🚀</b></summary>
-  
-  <br />
-  *   **☁️ Cloud & DevOps: Develop secure, scalable cloud solutions on AWS, integrating CI/CD pipelines and best DevOps practices to streamline deployment and monitoring.  
-  *   **📊 Data Engineering:** I build solid, scalable ETL pipelines and manage data warehouses to ensure data is always ready for analysis.
-  *   **📈 Analytics & Data Science:** I dive deep into statistical analysis, A/B testing, and predictive modeling to uncover insights that drive business decisions.
-  *   **🧠 Machine Learning:** I have experience in the end-to-end ML lifecycle, from developing and training models to deploying them for real-world use.
+<details> <summary><b>My Core Competencies 🚀</b></summary> <br />
 
-</details>
+☁️ Cloud & DevOps: Develop secure, scalable cloud solutions on AWS, integrating CI/CD pipelines and applying best DevOps practices to streamline deployment and monitoring.
 
-<details>
-  <summary><b>My Favorite Technologies 🛠️</b></summary>
-  
-  <br />
+📊 Data Engineering: Build solid, scalable ETL pipelines and manage data warehouses to ensure data is always ready for analysis.
+
+📈 Analytics & Data Science: Dive deep into statistical analysis, A/B testing, and predictive modeling to uncover insights that drive business decisions.
+
+🧠 Machine Learning: Experienced in the end-to-end ML lifecycle, from developing and training models to deploying them for real-world use.
+
+</details> <details> <summary><b>My Favorite Technologies 🛠️</b></summary> <br />
   
   *   **Languages:** Python, SQL
   *   **Data Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
